@@ -1,6 +1,3 @@
-Here's the updated **README.md** file with your SQL file link added:  
-
----
 
 # **E-Commerce SQL Case Study 📊**  
 
@@ -38,7 +35,13 @@ The dataset consists of the following tables:
 2️⃣ Run the queries in any SQL environment (**MySQL, PostgreSQL, SQL Server, etc.**)  
 3️⃣ Modify queries based on your dataset and business requirements  
 
-## **Let’s Connect!**  
-If you have any suggestions or questions, feel free to reach out on [LinkedIn](https://www.linkedin.com/in/ashraf-ahmad-khan/) 🚀  
+## **License 📜**  
+This project is licensed under the **MIT License** – feel free to use and modify it.  
 
---
+## **Let’s Connect! 🚀**  
+📩 Feel free to reach out for discussions, suggestions, or collaborations:  
+🔗 [LinkedIn](https://www.linkedin.com/in/ashraf-ahmad-khan/)  
+🔗 [GitHub](https://github.com/ashrafkhan778)  
+
+---
+
